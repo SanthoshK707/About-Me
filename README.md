@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Santhosh @SanthoshK707
+- 👀 I’m interested in FULL STACK DEVELOPMENT
+- 🌱 I’m currently learning PYTHON
+- 📫 How to reach me mail me at santhosh2111995@gmail.com
